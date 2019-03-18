@@ -1,4 +1,4 @@
-# Second programming assignment in Python
+``# Second programming assignment in Python
 
 This is a required graded programming assignment in MicroPython for the micro:bit.
 
@@ -21,4 +21,4 @@ This is a required graded programming assignment in MicroPython for the micro:bi
    
 ## Project description
 
-Your work here...
+The code in this project was used to create a crying eye animation. I manipulated code used for boats to build my code.
